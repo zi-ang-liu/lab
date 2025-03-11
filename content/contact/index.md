@@ -16,8 +16,8 @@ sections:
         street: 〒184-8584
         city: 東京都小金井市梶野町3-7-2
         region: 法政大学 
-        postcode: 理工学部 
-        country: 経営システム工学科
+        postcode: 小金井キャンパス
+        # country: 
         # country_code: US
       coordinates:
         latitude: '35.7096634882535'
