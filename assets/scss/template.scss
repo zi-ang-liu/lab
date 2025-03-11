@@ -7,3 +7,54 @@
 .cta-group {
   justify-content: center;
 }
+
+// Font style and size 
+$font-primary: 'Noto Sans JP', sans-serif;
+$font-sizes: (
+  small: 14px,
+  base: 16px,
+  large: 18px,
+  xlarge: 20px,
+);
+$font-weight: (
+  light: 300,
+  regular: 400,
+  bold: 700,
+);
+
+// Set font styles for different HTML elements
+h1 {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, xlarge);
+  font-weight: map-get($font-weight, bold);
+}
+
+h2 {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, large);
+  font-weight: map-get($font-weight, bold);
+}
+
+h3 {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, base);
+  font-weight: map-get($font-weight, regular);
+}
+
+h4 {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, base);
+  font-weight: map-get($font-weight, regular);
+}
+
+p {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, base);
+  font-weight: map-get($font-weight, regular);
+}
+
+li {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, small);
+  font-weight: map-get($font-weight, regular);
+}
