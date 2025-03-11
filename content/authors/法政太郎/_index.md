@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 法政 太郎
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: 太郎
+last_name: 法政
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 法政太郎
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 4年生
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 法政大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 自己紹介
 
+# 興味
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 人工知能
+  - 最適化
 
 education:
   courses:
