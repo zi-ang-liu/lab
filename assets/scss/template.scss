@@ -70,11 +70,11 @@ a {
 .portrait-title h2 {
   font-family: $font-primary;
   font-size: map-get($font-sizes, xxlarge);
-  font-weight: map-get($font-weight, bold);
+  font-weight: map-get($font-weight, regular);
 }
 
 .portrait-title h3 {
   font-family: $font-primary;
   font-size: map-get($font-sizes, xlarge);
-  font-weight: map-get($font-weight, bold);
+  font-weight: map-get($font-weight, regular);
 }
