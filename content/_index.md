@@ -9,6 +9,8 @@ sections:
     content:
       title: |
         研究室概要
+      subtitle: |
+        Intelligent Systems Laboratory
       image:
         filename: welcome.jpg
       text: |
