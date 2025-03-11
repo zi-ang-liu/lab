@@ -16,6 +16,13 @@ sections:
         
         **知能システム研究室**は、オペレーションズ・リサーチ、機械学習、最適化に関する研究をしています。
   
+  - block: markdown
+    content: 
+      title: About Us
+      subtitle: 
+      text: |
+        知能システム研究室は、オペレーションズ・リサーチ、機械学習、最適化に関する研究をしています。研究室の目標は、最先端の研究を通じて社会に貢献することです。研究室のメンバーは、研究を通じて自己成長し、社会に貢献することを目指しています。
+
   # - block: collection
   #   content:
   #     title: Latest News
