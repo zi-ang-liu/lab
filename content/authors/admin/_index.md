@@ -41,7 +41,7 @@ social:
     link: 'mailto:liu.ziang@outlook.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=_G5ufOEAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=_G5ufOEAAAAJ 
   - icon: github
     icon_pack: fab
     link: https://github.com/zi-ang-liu
