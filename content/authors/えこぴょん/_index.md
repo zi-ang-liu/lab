@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 法政 太郎
+title: えこぴょん
 
 # Full name (for SEO)
-first_name: 太郎
-last_name: 法政
+first_name: ぴょん
+last_name: えこ
 
 # Username (this should match the folder name)
 authors:
-  - 法政太郎
+  - えこぴょん
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 4年生
+role: えこぴょん
 
 # Organizations/Affiliations
 organizations:
