@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Intelligent Systems Laboratory
+        知能システム研究室
       image:
         filename: welcome.jpg
       text: |
