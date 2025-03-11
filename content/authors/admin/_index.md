@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LIU ZIANG
+title: 劉 子昂
 
 # Full Name (for SEO)
 first_name: Ziang
@@ -14,28 +14,22 @@ role: 准教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Hosei University
-    url: ''
+  - name: 法政大学
+    url: 'https://ise-hp.ws.hosei.ac.jp/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Operations Research
+  - Optimization
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 博士（工学）
+      institution: 大阪大学
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
