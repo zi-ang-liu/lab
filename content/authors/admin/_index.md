@@ -14,16 +14,16 @@ role: 准教授
 
 # Organizations/Affiliations
 organizations:
-  - name: 法政大学
+  - name: 法政大学理工学部経営システム工学科
     url: 'https://ise-hp.ws.hosei.ac.jp/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor at Hosei University.
+bio: オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
 
 interests:
-  - Artificial Intelligence
-  - Operations Research
-  - Optimization
+  - オペレーションズ・リサーチ
+  - 人工知能
+  - 最適化
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
   - Faculty
 ---
 
-I am an Associate Professor at Hosei University.
+2021年4月大阪大学大学院基礎工学研究科博士後期課程修了．同年4月より岡山大学助教を経て，現在は法政大学理工学部経営システム工学科准教授．オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
