@@ -8,79 +8,13 @@
   justify-content: center;
 }
 
-// Font style and size 
+// Define the font variable
 $font-primary: 'Noto Sans JP', sans-serif;
-$font-sizes: (
-  small: 14px,
-  base: 16px,
-  large: 18px,
-  xlarge: 20px,
-  xxlarge: 24px,
-  xxxlarge: 32px,
-);
-$font-weight: (
-  light: 300,
-  regular: 400,
-  bold: 700,
-);
 
-// Set font styles for different HTML elements
-h1 {
+// Apply the font to the whole page
+* {
   font-family: $font-primary;
-  font-size: map-get($font-sizes, xlarge);
-  font-weight: map-get($font-weight, bold);
-}
-
-h2 {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, large);
-  font-weight: map-get($font-weight, bold);
-}
-
-h3 {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, base);
-  font-weight: map-get($font-weight, regular);
-}
-
-h4 {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, base);
-  font-weight: map-get($font-weight, regular);
-}
-
-p {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, base);
-  font-weight: map-get($font-weight, regular);
-}
-
-li {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, small);
-  font-weight: map-get($font-weight, regular);
-}
-
-a {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, base);
-  font-weight: map-get($font-weight, regular);
-}
-
-.portrait-title h2 {
-  font-family: $font-primary;
-  // font-size: map-get($font-sizes, xxlarge);
-  // font-weight: map-get($font-weight, regular);
-}
-
-.portrait-title h3 {
-  font-family: $font-primary;
-  // font-size: map-get($font-sizes, xlarge);
-  // font-weight: map-get($font-weight, regular);
-}
-
-.hero-title h1 {
-  font-family: $font-primary;
-  font-size: map-get($font-sizes, large);
-  font-weight: map-get($font-weight, bold);
+  // margin: 0;
+  // padding: 0;
+  // box-sizing: border-box;
 }
