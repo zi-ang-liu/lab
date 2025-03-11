@@ -13,11 +13,11 @@ sections:
       email: liu.ziang@outlook.com
       # phone: 888 888 88 88
       address:
-        street: 〒184-8584 東京都小金井市梶野町3-7-2法政大学 理工学部 経営システム工学科
-        # city: Stanford
-        # region: CA
-        # postcode: '94305'
-        # country: United States
+        street: 〒184-8584
+        city: 東京都小金井市梶野町3-7-2
+        region: 法政大学 
+        postcode: 理工学部 
+        country: 経営システム工学科
         # country_code: US
       coordinates:
         latitude: '35.7096634882535'
