@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
 
-interests:
-  - オペレーションズ・リサーチ
-  - 人工知能
-  - 最適化
+# interests:
+#   - オペレーションズ・リサーチ
+#   - 人工知能
+#   - 最適化
 
-education:
-  courses:
-    - course: 博士（工学）
-      institution: 大阪大学
-      year: 2021
+# education:
+#   courses:
+#     - course: 博士（工学）
+#       institution: 大阪大学
+#       year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
