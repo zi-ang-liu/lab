@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-11
 type: landing
 
 sections:
@@ -10,6 +10,7 @@ sections:
       title: |
         Wowchemy
         Research Group
+        知能システム研究室
       image:
         filename: welcome.jpg
       text: |
