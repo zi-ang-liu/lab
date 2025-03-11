@@ -66,4 +66,4 @@ user_groups:
   - Faculty
 ---
 
-I am an Asoociate Professor at Hosei University.
+I am an Associate Professor at Hosei University.
