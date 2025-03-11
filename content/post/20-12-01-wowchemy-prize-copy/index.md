@@ -1,5 +1,5 @@
 ---
-title: testあ
+title: test
 date: 2025-12-01
 ---
 
