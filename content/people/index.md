@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: people
     content:
-      title: メンバー
-      subtitle: People
+      title: People
+      subtitle: メンバー
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -17,9 +17,9 @@ sections:
           # - Grad Students
           # - Administration
           # - Visitors
-          - Faculty
-          - Students
-          - Alumni
+          - Faculty / 教員
+          - Students / 学生
+          - Alumni / 卒業生
       sort_by: Params.last_name
       sort_ascending: true
     design:

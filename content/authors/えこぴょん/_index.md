@@ -69,7 +69,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Students / 学生
 ---
 
 世界を舞台に環境問題解決のために様々な活動をしているウサギです。

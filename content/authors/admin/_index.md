@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Faculty
+  - Faculty / 教員
 ---
 
 2021年4月大阪大学大学院基礎工学研究科博士後期課程修了．同年4月より岡山大学助教を経て，現在は法政大学理工学部経営システム工学科准教授．オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
