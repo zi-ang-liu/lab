@@ -18,7 +18,7 @@ organizations:
     url: 'https://ise-hp.ws.hosei.ac.jp/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Asoociate Professor at Hosei University.
+bio: Associate Professor at Hosei University.
 
 interests:
   - Artificial Intelligence
