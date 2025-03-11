@@ -18,3 +18,9 @@ $font-primary: 'Noto Sans JP', sans-serif;
   // padding: 0;
   // box-sizing: border-box;
 }
+
+.portrait-title h2,
+.portrait-title h3,
+.portrait-title a {
+  font-family: $font-primary;
+}
