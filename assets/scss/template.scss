@@ -64,3 +64,9 @@ a {
   font-size: map-get($font-sizes, base);
   font-weight: map-get($font-weight, regular);
 }
+
+.portrait-title h2 {
+  font-family: $font-primary;
+  font-size: map-get($font-sizes, xlarge);
+  font-weight: map-get($font-weight, bold);
+}
