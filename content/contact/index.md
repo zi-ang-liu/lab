@@ -16,8 +16,8 @@ sections:
       address:
         street: 〒184-8584
         city: 東京都小金井市梶野町3-7-2
-        region: 法政大学 
-        postcode: 小金井キャンパス
+        region: 法政大学 小金井キャンパス
+        postcode: 
         # country: 
         # country_code: US
       coordinates:

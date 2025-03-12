@@ -14,7 +14,7 @@ role: 准教授
 
 # Organizations/Affiliations
 organizations:
-  - name: 法政大学理工学部経営システム工学科
+  - name: 法政大学 理工学部 経営システム工学科
     url: 'https://ise-hp.ws.hosei.ac.jp/'
 
 # Short bio (displayed in user profile at end of posts)
