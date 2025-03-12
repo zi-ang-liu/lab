@@ -75,4 +75,7 @@ sections:
       text: |
         - a
         - b
+        aaaa
+
+        bbbb
 ---
