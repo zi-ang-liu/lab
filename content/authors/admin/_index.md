@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 劉 子昂（Liu Ziang）
+title: 劉 子昂
 
 # Full Name (for SEO)
 first_name: Ziang
