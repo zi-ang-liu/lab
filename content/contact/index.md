@@ -72,7 +72,7 @@ sections:
   - block: markdown
     content:
       title: Links
-      text:
+      text: |
         - a
         - b
 ---
