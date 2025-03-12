@@ -20,17 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
 
-# interests:
-#   - オペレーションズ・リサーチ
-#   - 人工知能
-#   - 最適化
-
-# education:
-#   courses:
-#     - course: 博士（工学）
-#       institution: 大阪大学
-#       year: 2021
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,9 +34,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zi-ang-liu
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,3 +54,4 @@ user_groups:
 ---
 
 2021年4月大阪大学大学院基礎工学研究科博士後期課程修了．同年4月より岡山大学助教を経て，現在は法政大学理工学部経営システム工学科准教授．オペレーションズ・リサーチ，人工知能，最適化などを研究しています．
+
