@@ -21,7 +21,7 @@ sections:
   - block: markdown
     content: 
       title: Intelligent Systems Laboratory
-      subtitle: Hosei University
+      subtitle: Department of Industrial and Systems Engineering, Hosei University
       text: |
         The **Intelligent Systems Laboratory** (ISL) researches operations research, machine learning, and optimization methods to improve decision-making for complex systems. Of particular interest are systems for inventory, manufacturing, transportation, and supply chain management, as well as other applications where decisions are made in uncertain, dynamic environments. Research at ISL focuses on efficient, human-centered computational methods for deriving optimal or satisfactory decisions for various complex problems.
 
